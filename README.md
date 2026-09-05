@@ -16,6 +16,16 @@
 
 ---
 
+## The remittance panel
+
+![Monthly report — remittance detail, demo tenant](monthly-report-remittance.jpg)
+
+**Every rule described below, visible in one screen.** The two remittance lines are computed and shown **separately** — never summed. Each prints the requirement beside the entered figure (`Required — 10% of offerings: $25.29`), which is how a variance becomes visible rather than silent. Payment method and confirmation number are captured because the office reconciles against its bank. Dual signature blocks close the record.
+
+Demo tenant, seeded data.
+
+---
+
 ## 1. The business problem
 
 Church treasurers do bookkeeping in spreadsheets, then hand-calculate a monthly remittance owed to their national office, then print and sign it. The arithmetic is subtle, the deadlines are fixed, and the money is other people's donations. Errors are common, uncomfortable to discover, and awkward to correct.
